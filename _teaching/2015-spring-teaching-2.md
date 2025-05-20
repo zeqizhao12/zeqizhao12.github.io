@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Guest lecture for Introduction to English Linguistics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate seminar"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "University of Göttingen"
+date: WinSe 2023/24
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Gave a guest lecture on _pragmatics_. Slides [here](http://zeqizhao12.github.io/files/Slides_prag_week_13_Zhao.pdf).
