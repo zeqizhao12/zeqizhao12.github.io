@@ -3,7 +3,7 @@ title: "Dou and homogeneity removal - A new perspective to the co-occurrence puz
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: ' In this paper, I present novel data that dou has the true UQ power due to its ability to remove homogeneity.'
+excerpt: ' In this paper, I present novel data that Mandarin _dou_ has the true UQ power due to its ability to remove homogeneity and non-maximality.'
 date: 2024-12-20
 venue: 'ConSOLE XXXII'
 paperurl: 'http://zeqizhao12.github.io/files/ConSole_32_Zhao_2024.pdf'
