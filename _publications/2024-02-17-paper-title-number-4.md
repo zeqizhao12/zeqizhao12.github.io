@@ -2,6 +2,7 @@
 title: "Dou and homogeneity removal - A new perspective to the co-occurrence puzzle"
 collection: publications
 category: conferences
+excerpt: '  '
 date: 2024-12-20
 venue: 'ConSOLE XXXII'
 paperurl: 'http://zeqizhao12.github.io/files/ConSole_32_Zhao_2024.pdf'
