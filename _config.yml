@@ -240,6 +240,7 @@ defaults:
       comments: true
       share: true
       related: true
+      draft: true
   # _pages
   - scope:
       path: ""
