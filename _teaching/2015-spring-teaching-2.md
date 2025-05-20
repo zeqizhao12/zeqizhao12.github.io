@@ -1,10 +1,10 @@
 ---
-title: "Guest lecture for _Introduction to English Linguistics_"
+title: "Introduction to English Linguistics"
 collection: teaching
 type: "Undergraduate seminar"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Göttingen"
-date: WinSe 2023/24
+date: 2023-09-01
 location: "City, Country"
 ---
 
