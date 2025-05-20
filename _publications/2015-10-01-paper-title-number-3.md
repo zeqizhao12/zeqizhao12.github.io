@@ -2,7 +2,6 @@
 title: "How to reconcile maximal and non-maximal 'every'."
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
 date: 2025-04-01
 venue: 'Sinn und Bedeutung 29'
 paperurl: 'http://zeqizhao12.github.io/files/SUB_29_Zhao_205.pdf'
