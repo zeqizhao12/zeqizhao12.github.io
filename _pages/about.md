@@ -15,6 +15,8 @@ You can also find more information about me on [my institutional page](https://w
 Research Interests
 ======
 * Formal semantics;
+  
+* The semantics/pragmatics interface;
 
 * Logic in language;
 
