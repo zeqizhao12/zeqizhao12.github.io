@@ -4,11 +4,11 @@ collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper shows that the existence of distributive items
-like Mandarin mei, which enforce distributivity but do not require maximality, underscores the need to
+like Mandarin _mei_, which enforce distributivity but do not require maximality, underscores the need to
 distinguish maximality from distributivity as a separate semantic property, as recently argued
 by Haslinger et al. (2025).'
 date: 2025-04-01
-venue: 'Journal 1'
+venue: 'Sinn und Bedeutung 29'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Zhao, Z (2025). How to reconcile maximal and non-maximal ‘every’. In Proceedings of
