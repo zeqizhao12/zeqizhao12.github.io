@@ -1,5 +1,5 @@
 ---
-title: "Guest lecture for Introduction to English Linguistics"
+title: "Guest lecture for _Introduction to English Linguistics_"
 collection: teaching
 type: "Undergraduate seminar"
 permalink: /teaching/2015-spring-teaching-1
