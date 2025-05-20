@@ -1,5 +1,5 @@
 ---
-title: "How to reconcile maximal and non-maximal ‘every’."
+title: "How to reconcile maximal and non-maximal 'every'."
 collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
@@ -9,8 +9,7 @@ distinguish maximality from distributivity as a separate semantic property, as r
 by Haslinger et al. (2025).'
 date: 2025-04-01
 venue: 'Sinn und Bedeutung 29'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://zeqizhao12.github.io/files/SUB_29_Zhao_205.pdf'
 citation: 'Zhao, Z (2025). How to reconcile maximal and non-maximal ‘every’. In Proceedings of
 Sinn und Bedeutung 29. (To appear).'
 ---
