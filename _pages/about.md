@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Zeqi Zhao, currently completing my Ph.D. in Theoretical Linguistics at the University of Göttingen, supervised by Professors
+Hi, I am currently completing my Ph.D. in Theoretical Linguistics at the University of Göttingen, supervised by Professors
 [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) and [Uwe Junghanns](https://www.uni-goettingen.de/en/153074.html). My dissertation explores the polymorphism of distributivity in Mandarin, particularly addressing intersections with indefinites, pair-list readings, non-maximality, and homogeneity.
 
 You can also find more information on [my institutional page](https://www.uni-goettingen.de/de/zeqi+zhao/676254.html).
