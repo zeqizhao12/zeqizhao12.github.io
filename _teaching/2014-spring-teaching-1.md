@@ -9,4 +9,4 @@ location: "City, Country"
 ---
 This class emphasizes the hands-on application of semantic theories.
 
-Slides [here](https://github.com/zeqizhao12/zeqizhao12.github.io/files/Lab_class_23_24).
+Slides [here](/files/Lab_class_23_24/).
