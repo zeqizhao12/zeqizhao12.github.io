@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Semantic lab class"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Göttingen"
+date: 2023-01-01
 location: "City, Country"
 ---
+This class emphasizes the hands-on application of semantic theories.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Slides [here](http://zeqizhao12.github.io/files/Lab class_23_34).
