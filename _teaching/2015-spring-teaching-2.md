@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate seminar"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Göttingen"
-date: 2023-09-01
+date: 2024-04-01
 location: "City, Country"
 ---
 
