@@ -26,3 +26,6 @@ Public outreach
 Modern theoretical linguistics—particularly generative and formal approaches—often bears the “non-scientific” label. My goal is to show the general public that formal semantics goes well beyond abstract formalisms that resemble “pure math”: formal grammars generate precise, testable predictions that can be directly validated against empirical data.
 
 In a joint public talk (with [Nina Haslinger](http://www.ninahaslinger.net/index.html)) at the [5th Night of Science in Göttingen](https://uni-goettingen.de/en/664093.html), I demonstrated how an intuitive understanding of logical consequence is woven into our unconscious language faculty.
+
+[Dog logic](http://zeqizhao12.github.io/files/Dog Logic.png)
+
