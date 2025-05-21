@@ -5,6 +5,14 @@
 {% include seo.html %}
 
 {% seo %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Zeqi Zhao",
+  "url": "{{ site.url }}{{ site.baseurl }}/"
+}
+</script>
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
