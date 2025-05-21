@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 Hi, I am currently completing my Ph.D. in Theoretical Linguistics at the University of Göttingen, supervised by Professors
-[Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) and [Uwe Junghanns](https://www.uni-goettingen.de/en/153074.html). My dissertation explores the polymorphism of distributivity in Mandarin, examining how semantic structures enable specific interpretations and how
-pragmatic factors guide the accessibility of these meanings. It particularly addresses intersections with indefinites, pair-list readings, non-maximality, and homogeneity.
+[Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) and [Uwe Junghanns](https://www.uni-goettingen.de/en/153074.html). My dissertation explores the polymorphism of distributivity in Mandarin, particularly addressing intersections with indefinites, pair-list readings, non-maximality, and homogeneity.
 
-You can also find more information about me on [my institutional page](https://www.uni-goettingen.de/de/zeqi+zhao/676254.html).
+You can also find more information on [my institutional page](https://www.uni-goettingen.de/de/zeqi+zhao/676254.html).
 
 Research Interests
 ======
@@ -21,3 +20,9 @@ Research Interests
 * Logic in language;
 
 * Chinese linguistics
+
+Public outreach
+======
+Modern theoretical linguistics—particularly generative and formal approaches—often bears the “non-scientific” label. My goal is to show the general public that formal semantics goes well beyond abstract formalisms that resemble “pure math”: formal grammars generate precise, testable predictions that can be directly validated against empirical data.
+
+In a joint public talk (with [Nina Haslinger](http://www.ninahaslinger.net/index.html)) at the [5th Night of Science in Göttingen](https://uni-goettingen.de/en/664093.html), I demonstrated how an intuitive understanding of logical consequence is woven into our unconscious language faculty.
