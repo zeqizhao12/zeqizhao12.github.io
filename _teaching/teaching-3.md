@@ -7,4 +7,4 @@ venue: "University of Göttingen"
 date: 2020-04-01
 location: "City, Country"
 ---
-Slides [here](https://github.com/zeqizhao12/zeqizhao12.github.io/tree/6767b899b117f5cabb371150bf1bf8731c83dfcd/files/Lab_class_23_24).
+Slides [here](https://github.com/zeqizhao12/zeqizhao12.github.io/tree/a069b6c9b433b54bab04552b42aecc3716bfbc94/files/Tutorium_Tutorial_Quantification_and_binding_and_Intensionality).
