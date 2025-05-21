@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find the current version of my CV [here](http://zeqizhao12.github.io/files/CV_2025.pdf).
+Please find the current version of my CV [here](http://zeqizhao12.github.io/files/CV_2025_V1.pdf).
