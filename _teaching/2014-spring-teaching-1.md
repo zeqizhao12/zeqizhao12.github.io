@@ -2,7 +2,7 @@
 title: "Semantic lab class"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "University of Göttingen"
 date: 2023-01-01
 location: "City, Country"
