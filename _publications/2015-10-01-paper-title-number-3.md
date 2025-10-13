@@ -16,3 +16,5 @@ rather than _mei_, is responsible for expressing maximality. The existence of di
 like _mei_, which enforce distributivity but do not require maximality, underscores the need to
 distinguish maximality from distributivity as a separate semantic property, as recently argued
 by Haslinger et al. (2025).
+
+[DOI:](https://doi.org/10.18148/sub/2024.v29.1310)
