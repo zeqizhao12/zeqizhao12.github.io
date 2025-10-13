@@ -17,4 +17,4 @@ like _mei_, which enforce distributivity but do not require maximality, undersco
 distinguish maximality from distributivity as a separate semantic property, as recently argued
 by Haslinger et al. (2025).
 
-[DOI:https://doi.org/10.18148/sub/2024.v29.1310](https://doi.org/10.18148/sub/2024.v29.1310)
+[DOI: https://doi.org/10.18148/sub/2024.v29.1310](https://doi.org/10.18148/sub/2024.v29.1310)
