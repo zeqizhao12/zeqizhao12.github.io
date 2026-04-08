@@ -11,7 +11,8 @@ Hi, my name is Zeqi Zhao [tsɤ́ tɕʰí ʈʂàʊ̯].
 I am currently completing my Ph.D. in Theoretical Linguistics at the University of Göttingen, supervised by Professors
 [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) and [Uwe Junghanns](https://www.uni-goettingen.de/en/153074.html). My dissertation examines how focus shapes meaning, using Mandarin *dou* as a case study. I argue that what looks like a multifunctional particle performs a single operation whose effect is determined by focus structure and the argumentative structure of discourse.
 
-You can also find more information on [my institutional page](https://www.uni-goettingen.de/de/zeqi+zhao/676254.html).
+You can also find more information on [my institutional page](https://www.uni-goettingen.de/de/zeqi+zhao/676254.html). You can reach me at [zeqizhao.zz@gmail.com](mailto:zeqizhao.zz@gmail.com).
+ 
 
 Research Interests
 ======
