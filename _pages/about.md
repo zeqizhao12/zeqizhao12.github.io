@@ -21,7 +21,7 @@ Research Interests
 
 * Logic in language;
 
-* Chinese linguistics
+* Information structure
 
 Public outreach
 ======
